@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rishav Kali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="500" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"
+<img align="right" alt="coding" width="500" src="https://tse1.mm.bing.net/th?id=OIP.t5OuvQG5JxuZnQPfr3a-IQHaFj&pid=Api&P=0&h=180"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavkali03&label=Profile%20views&color=0e75b6&style=flat" alt="rishavkali03" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
