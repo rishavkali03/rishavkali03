@@ -1,5 +1,5 @@
 
-
+![logo](https://github.com/rishavkali03/rishavkali03/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rishav Kali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
